@@ -1,16 +1,26 @@
 👋 Hi, I'm Jalen Spivey!
 
-🎓 Computer Science Student at Georgia State University (Graduates August 2025)
-💻 Passionate about software development, artificial intelligence,cloud computing, and computer vision
-🔍 Interested in machine learning, automation, and innovative tech solutions
+🎓 Computer Science graduate from Georgia State University 
+💻 Aspiring software engineer with interests spanning Full-stack development, AI,cloud technologies  
+📍 Atlanta, GA | Open to relocation  
 
 🔨 Skills & Technologies
-Languages: Python, Java, C, SQL,C++
-Areas of Interest: AI, Computer Vision, Data Analysis
-Tools & Frameworks: Git, Linux, OpenCV, Pandas, Pytorch, TensorFlow
+Languages: C#, Python, Java, SQL, C++  
+Frameworks & Platforms:  ASP.NET Core, React, TensorFlow, PyTorch  
+Data & AI: Machine Learning, Computer Vision, Agentic AI concepts(tool use, planning, autonomous workflows), Data Analysis  
+Tools: Git, Linux, Docker, AWS (EC2, S3), OpenCV, Pandas
+
 🚀 Projects
-Check out my repositories for projects on automation, AI, and data analysis. Always open to collaboration!
+Here you’ll find a mix of academic and personal projects, including:
+- Full-stack web applications
+- REST APIs built with ASP.NET Core
+- Computer vision and machine learning projects
+- Automation and data-driven applications
+Each project focuses on writing clean, maintainable code and applying concepts learned through coursework and hands-on experience.
 
 📫 Let's Connect!
+I’m always open to learning, collaboration, and discussing opportunities in software development.  
+Feel free to explore my repositories or reach out!
+
 LinkedIn: https://www.linkedin.com/in/jalen-spivey-b458a829a/
 Email: J.Spivey2614@gmail.com
