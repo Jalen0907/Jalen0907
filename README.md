@@ -5,8 +5,8 @@
 📍 Atlanta, GA | Open to relocation  
 
 🔨 Skills & Technologies
-Languages: C#, Python, Java, SQL, C++  
-Frameworks & Platforms:  ASP.NET Core, React, TensorFlow, PyTorch  
+Languages: C#, Java, Python, SQL, C/C++  
+Frameworks & Platforms: SpringBoot, Angular, ASP.NET Core, React, TensorFlow, PyTorch  
 Data & AI: Machine Learning, Computer Vision, Agentic AI concepts(tool use, planning, autonomous workflows), Data Analysis  
 Tools: Git, Linux, Docker, AWS (EC2, S3), OpenCV, Pandas
 
